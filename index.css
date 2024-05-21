@@ -1,0 +1,100 @@
+/* Colores personalizados */
+body.estilo-nuevo {
+    background-color: #f8f9fa;
+    /* Fondo claro */
+    color: #6a6969;
+    /* Texto oscuro */
+}
+
+/*sobre mi*/
+.estilo-nuevo .bg-primary {
+    background-color: #e88e8f !important;
+    /* Azul personalizado */
+}
+
+.estilo-nuevo .text-primary {
+    color: #5b646f !important;
+    /* Azul personalizado */
+}
+
+/*linia divisora*/
+.estilo-nuevo .divider {
+    background-color: #343a40 !important;
+}
+
+/* Otros colores personalizados */
+
+.estilo-nuevo .bg-dark {
+    background-color: #00a08f !important;
+}
+
+.estilo-nuevo .text-white-75 {
+    color: rgba(38, 38, 38, 0.75) !important;
+}
+
+/* Encabezado personalizado */
+.estilo-nuevo .masthead h1 {
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.estilo-nuevo .masthead .btn {
+    background-color: #5b646f;
+    color: #fff;
+}
+
+/* Sección About personalizada */
+.estilo-nuevo #about {
+    background-color: #505253;
+}
+
+.estilo-nuevo #about h2 {
+    color: #fff;
+}
+
+.estilo-nuevo #about p {
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.estilo-nuevo #about .btn {
+    background-color: #fff;
+    color: #454546;
+}
+
+/* Sección de Contacto personalizada */
+.estilo-nuevo #contact h2 {
+    color: #454546;
+}
+
+.estilo-nuevo #contact .form-control {
+    border-color: #454546;
+}
+
+.estilo-nuevo #contact .btn-primary {
+    background-color: #454546;
+    border-color: #454546;
+}
+
+.estilo-nuevo #contact .btn-primary:hover {
+    background-color: #454546;
+    border-color: #454546;
+}
+
+/* Footer personalizado */
+.estilo-nuevo footer {
+    background-color: #f8f9fa;
+    color: #212529;
+}
+
+.estilo-nuevo .social-icons a {
+    color: #454546;
+    margin: 0 10px;
+}
+
+.estilo-nuevo .social-icons a:hover {
+    color: #454546;
+}
+
+.estilo-nuevo .portfolio-box-caption {
+    background-color: #00a08f;
+}
