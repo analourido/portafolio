@@ -25,11 +25,11 @@ body.estilo-nuevo {
 /* Otros colores personalizados */
 
 .estilo-nuevo .bg-dark {
-    background-color: #00a08f !important;
+    background-color: #e88e8f !important;
 }
 
 .estilo-nuevo .text-white-75 {
-    color: rgba(38, 38, 38, 0.75) !important;
+    color: rgba(255, 255, 255, 0.75) !important;
 }
 
 /* Encabezado personalizado */
@@ -39,17 +39,19 @@ body.estilo-nuevo {
 }
 
 .estilo-nuevo .masthead .btn {
-    background-color: #5b646f;
+    background-color: #bc7172;
     color: #fff;
 }
 
 /* Sección About personalizada */
 .estilo-nuevo #about {
-    background-color: #505253;
+    background-color: #124654;
 }
 
 .estilo-nuevo #about h2 {
     color: #fff;
+
+
 }
 
 .estilo-nuevo #about p {
@@ -58,43 +60,39 @@ body.estilo-nuevo {
 
 .estilo-nuevo #about .btn {
     background-color: #fff;
-    color: #454546;
+    color: #124654;
 }
 
 /* Sección de Contacto personalizada */
 .estilo-nuevo #contact h2 {
-    color: #454546;
+    color: #124654;
 }
 
 .estilo-nuevo #contact .form-control {
-    border-color: #454546;
+    border-color: #124654;
 }
 
 .estilo-nuevo #contact .btn-primary {
-    background-color: #454546;
-    border-color: #454546;
+    background-color: #e88e8f;
+    border-color: #000000;
 }
 
 .estilo-nuevo #contact .btn-primary:hover {
-    background-color: #454546;
+    background-color: #124654;
     border-color: #454546;
 }
 
 /* Footer personalizado */
 .estilo-nuevo footer {
     background-color: #f8f9fa;
-    color: #212529;
+    color: #124654;
 }
 
 .estilo-nuevo .social-icons a {
-    color: #454546;
+    color: #124654;
     margin: 0 10px;
 }
 
 .estilo-nuevo .social-icons a:hover {
-    color: #454546;
-}
-
-.estilo-nuevo .portfolio-box-caption {
-    background-color: #00a08f;
+    color: #124654;
 }
